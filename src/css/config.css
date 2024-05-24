@@ -22,10 +22,6 @@
 
     }
 
-    .color-svg{
-        @apply hover:fill-[#F25F3A] ;
-    }
-
     .footer-area-md{
         grid-template-areas:
         "logo         navigation form"
